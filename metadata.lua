@@ -2,7 +2,7 @@ return PlaceObj('ModDef', {
 	'title', "Funded Casino",
 	'description', "",
 	'image', "cover.png",
-	'last_changes', "",
+	'last_changes', "https://github.com/FizzleFuze/Funded_Casino/blob/master/changelog.md",
 	'ignore_files', {
 		"*.git/*",
 		"*.svn/*",
