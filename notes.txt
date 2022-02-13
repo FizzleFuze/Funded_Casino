@@ -1,9 +1,11 @@
 2do:
   - log of how much funding was gained/lost at casinos to UI
     - command center?
-    - building ui?
     - funding tooltip?
   - add new game types (blackjack etc)
     - allow game selection per casino (like schools)
   - card counting geniuses
     - something something, security station influences this
+
+Davinci 50 minutes ago
+Sorry for taking s long to get back to you. I guess what I had in mind was, when I click on the casino, a summary of income could be displayed in the info window somewhere.

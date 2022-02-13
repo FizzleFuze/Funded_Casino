@@ -1,5 +1,10 @@
 return {
 	PlaceObj('ModItemCode', {
+		'name', "CasinoProfit",
+		'comment', "Class Def",
+		'FileName', "Code/CasinoProfit.lua",
+	}),
+	PlaceObj('ModItemCode', {
 		'name', "FundedCasino",
 		'comment', "building code",
 		'FileName', "Code/FundedCasino.lua",
@@ -19,13 +24,6 @@ PlaceObj('ModItemOptionChoice', {
 		"Tourists + Martians",
 		"Humans + Martians (No Tourists)",
 	},
-}),
-PlaceObj('ModItemOptionToggle', {
-	'name', "ShowReport",
-	'comment', "show daily report",
-	'DisplayName', "Show Daily Report",
-	'Help', "Show a message with a daily report of casino income across the colony",
-	'DefaultValue', true,
 }),
 }
 
