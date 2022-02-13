@@ -1,0 +1,9 @@
+2do:
+  - log of how much funding was gained/lost at casinos to UI
+    - command center?
+    - building ui?
+    - funding tooltip?
+  - add new game types (blackjack etc)
+    - allow game selection per casino (like schools)
+  - card counting geniuses
+    - something something, security station influences this
